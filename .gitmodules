@@ -1,0 +1,6 @@
+[submodule "repos/HelloWorld"]
+	path = repos/HelloWorld
+	url = https://github.com/DitS-03/HelloWorld.git
+[submodule "repos/GoodbyeWorld"]
+	path = repos/GoodbyeWorld
+	url = https://github.com/DitS-03/GoodbyeWorld.git
